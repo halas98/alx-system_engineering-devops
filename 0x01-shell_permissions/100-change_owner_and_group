@@ -1,2 +1,2 @@
-#!/nin/bash
-chown -R vincent:staff ./*
+#!/bin/bash
+chown vincent:staff
